@@ -1,4 +1,4 @@
-![Header Image]((https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8))
+![Header Image](https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8)
 
 # Hi 👋, I'm FathimaShahnas
 A passionate Full Stack Developer from Sri Lanka.
